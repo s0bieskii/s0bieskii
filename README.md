@@ -1,4 +1,7 @@
 ![obraz](https://user-images.githubusercontent.com/42815359/160860856-b7f16617-00b7-406f-aa82-fc59b2799ef0.png)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/patryk-chojnacki96/)
+
+Hi there! 👋
 
 <!--
 **s0bieskii/s0bieskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
