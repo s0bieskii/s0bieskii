@@ -1,4 +1,4 @@
-![obraz](https://user-images.githubusercontent.com/42815359/160860271-d1258892-d6df-4387-81e2-0242c0154c72.png)
+![obraz](https://user-images.githubusercontent.com/42815359/160860856-b7f16617-00b7-406f-aa82-fc59b2799ef0.png)
 
 <!--
 **s0bieskii/s0bieskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
