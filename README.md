@@ -8,7 +8,7 @@ I'm Patryk, a self-taught Java enthusiast from Poland who takes his first seriou
 Im currently working on [CarRental](https://github.com/s0bieskii/CarRentalv1.1) web application.
 
 
-#### :wrench: Technologies/frameworks
+#### :wrench: Technologies/frameworks with which i worked:
 - Java 11
 - Spring (Boot, Validator, Security)
 - JPA/Hibernate
