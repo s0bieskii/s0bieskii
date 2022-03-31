@@ -22,3 +22,4 @@ Im currently working on [CarRental](https://github.com/s0bieskii/CarRentalv1.1) 
 - Lombok
 - Thymeleaf
 - HTML/CSS
+- JavaFX
