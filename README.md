@@ -5,17 +5,22 @@
 </br>
 I'm Patryk, a self-taught Java enthusiast from Poland who takes his first serious steps in the IT world as a Java Backend Developer!
 </br>
-Im currently working on [CarRental](https://github.com/s0bieskii/CarRentalv1.1) web application.
 
 
 #### :wrench: Technologies/frameworks with which i worked:
-- Java 11
+- Java 17 and earlier
 - Spring (Boot, Validator, Security)
 - JPA/Hibernate
+- Azure
+- Kubernetes
+- Terraform
+- RabbitMq
+- Jenkins
 - SQL
 - GIT
 - Maven
 - JUnit
+- Mockito
 - H2 Database
 - Flyway
 - Mapstruct
